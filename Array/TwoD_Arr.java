@@ -1,3 +1,5 @@
+package Array;
+
 public class TwoD_Arr {
     static void main(String[] args) {
         int[][] a = new int[3][2];
