@@ -1,3 +1,5 @@
+package Logical_Programming;
+
 public class Prime_number {
     public static void main(String[] args) {
         int num = 17;

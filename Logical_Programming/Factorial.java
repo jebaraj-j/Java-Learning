@@ -1,3 +1,5 @@
+package Logical_Programming;
+
 public class Factorial {
     public static void main(String[] args) {
         int num =5;
@@ -5,6 +7,6 @@ public class Factorial {
         for(int i = 1;i<=num;i++){
             fact = fact*i;
         }
-        System.out.println("Factorial of "+num+" is "+fact);
+        System.out.println("Logical_Programming.Factorial of "+num+" is "+fact);
     }
 }

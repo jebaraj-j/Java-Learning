@@ -1,3 +1,5 @@
+package Logical_Programming;
+
 public class Reverse_Number {
     public static void main(String[] args) {
         int num = 123;

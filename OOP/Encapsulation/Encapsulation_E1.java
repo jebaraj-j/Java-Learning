@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Encapsulation;
 
 public class Encapsulation_E1 {
     static void main(String[] args) {

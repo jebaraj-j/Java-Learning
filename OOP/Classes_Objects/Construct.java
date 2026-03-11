@@ -1,11 +1,11 @@
-package OOP;
+package OOP.Classes_Objects;
 
 public class Construct {
     int rollno;
     String name;
 
 
-//    OOP.Construct() {  //Default Constructor
+//    OOP.Classes_Objects.Construct() {  //Default Constructor
 //        rollno = 71;
 //        name = "Student";
 //

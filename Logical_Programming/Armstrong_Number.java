@@ -1,3 +1,5 @@
+package Logical_Programming;
+
 public class Armstrong_Number {
     public static void main(String[] args) {
         int num = 153;

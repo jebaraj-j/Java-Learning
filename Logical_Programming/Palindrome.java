@@ -1,3 +1,5 @@
+package Logical_Programming;
+
 public class Palindrome {
     public static void main(String[] args) {
         int num = 134143321;

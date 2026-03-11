@@ -1,15 +1,15 @@
-import java.util.Arrays;
+package Array;
 
 public class Array {
     static void main(String[] args) {
-//        int[] a = {10,20,33,44,55,66};  //Total of Array
+//        int[] a = {10,20,33,44,55,66};  //Total of Array.Array
 //        int total = 0;
 //        for(Integer i:a){
 //            total = total + i;
 //        }
 //        System.out.println("Total: "+ total);
 
-//        int min = a[0]; //Minimum Value of Array
+//        int min = a[0]; //Minimum Value of Array.Array
 //        for (int i = 1; i<a.length;i++ ){
 //            if(a[i]<min){
 //                min = a[i];
