@@ -1,4 +1,4 @@
-package OOP.Abstraction;
+package OOP.Abstraction.Abstract_Class;
 
 public class Maruthi extends Car{
     @Override
